@@ -14,4 +14,5 @@ The test will then display your net words per minute and accuracy
 - calculates net WPM
 - calculates accuracy
 - creates random test from ~300 common english words
+
 6/15/2021
