@@ -9,4 +9,9 @@ The test will then display your net words per minute and accuracy
 
 ![](https://raw.githubusercontent.com/Adamv27/Typing-Test/master/images/end.PNG)
 
+
+# Features
+- calculates net WPM
+- calculates accuracy
+- creates random test from ~300 common english words
 6/15/2021
